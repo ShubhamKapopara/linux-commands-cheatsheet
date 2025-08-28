@@ -73,7 +73,12 @@ sudo apt upgrade     # Upgrade packages
 sudo apt install pkg # Install a package
 ```
 
-### ⭐ Contribute & Share
-If this cheatsheet helps you, please star the repository and share it with others.
-Pull requests for adding new useful commands are welcome!
+## 🤝 Community
+
+We welcome feedback and contributions!  
+
+- **Report Issues:** [Open an issue](https://github.com/ShubhamKapopara/linux-commands-cheatsheet/issues) to suggest improvements or report errors.  
+- **Contribute:** Fork the repository, make your changes, and submit a pull request.  
+
+Thank you for helping improve this Linux Commands Cheat Sheet! 🚀
 
